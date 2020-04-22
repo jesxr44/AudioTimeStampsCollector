@@ -3,7 +3,7 @@ This small project allows you to collect key timestamps of a song.
 
 How to use it?
 
-Add a song to the Audio Source component that the Main Camera object contains.
+Add a song to the Audio Source component that the Main Camera contains.
 
 Play the project.
 
